@@ -12,6 +12,9 @@ repositories {
     mavenCentral()
 }
 
+compileJava.options.encoding = "UTF-8"
+compileTestJava.options.encoding = "UTF-8"
+
 dependencies {
     checkstyle project(':checks')
     implementation 'org.apache.commons:commons-math3:3.6.1'
