@@ -143,7 +143,7 @@ Para la implementación de `CountingBoard` pueden sacar provecho de los siguient
 
 ## Aspectos operativos ##
 
-- No modificar ningún archivo de código ya existente en el repositorio (Excepto por `Board`).
+- No modificar ningún archivo de código ya existente en el repositorio, a menos de que se le solicite explícitamente en los requerimientos.
 - No modificar ninguna prueba automatizada.
 - No modificar ningún chequeo de estilo. 
 - No utilizar spanglish.
